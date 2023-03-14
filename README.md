@@ -4,9 +4,7 @@
 
   <br/>
   👨‍💻 I’m currently working on web development technologies like JavaScript,TypeScript, Java, Spring, Node.
-  <br/>
-  📚 I’m currently learning everything about Frontend and Backend technologies 😅
-  
+  <br/>  
 </h3>
 
 <br/>
